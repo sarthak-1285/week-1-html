@@ -80,7 +80,7 @@ cd project1-profile-website
 ## 👨‍💻 Author
 
 **Sarthak Gote**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@sarthak-1285](https://github.com/sarthak-1285)
 - Goal: Full Stack Developer (MERN + AI)
 
 ---
